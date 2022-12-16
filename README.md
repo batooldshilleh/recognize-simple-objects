@@ -1,6 +1,6 @@
 # recognize-simple-objects
-The input: A colored image.
-• The output: The same input image with object identification<br>
+* The input: A colored image.<br>
+* The output: The same input image with object identification<br>
 
       ◦ Face and its content (Eyes, mouth and nose)<br>
       ◦ Shapes (Circle, triangle, rectangle, line and curve)
